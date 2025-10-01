@@ -6,4 +6,22 @@
     <SID>test_one_24</SID>
     <value><![CDATA[one]]></value>
   </string>
+  <string translate="1" segmentID="2" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_one_24</SID>
+    <value><![CDATA[one]]></value>
+  </string>
+  <string translate="1" segmentID="3" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_one_24</SID>
+    <value><![CDATA[one]]></value>
+  </string>
+  <string translate="1" segmentID="4" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Products_25</SID>
+    <value><![CDATA[Products]]></value>
+  </string>
 </resources>
