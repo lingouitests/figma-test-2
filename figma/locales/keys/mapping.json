@@ -22,5 +22,11 @@
     "value": "test2",
     "nodeID": "node_id.11:45",
     "lastChanged": "1759406173"
+  },
+  {
+    "key": "test_test3_49",
+    "value": "test3",
+    "nodeID": "node_id.11:46",
+    "lastChanged": "1759406323"
   }
 ]
