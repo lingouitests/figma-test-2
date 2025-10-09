@@ -4968,4 +4968,124 @@
     <SID>test_finalatt_76</SID>
     <value><![CDATA[new title]]></value>
   </string>
+  <string translate="1" segmentID="829" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_EnableCo_51</SID>
+    <value><![CDATA[Enable Context Screenshots]]></value>
+  </string>
+  <string translate="1" segmentID="830" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_test2_52</SID>
+    <value><![CDATA[test2]]></value>
+  </string>
+  <string translate="1" segmentID="831" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_test3_53</SID>
+    <value><![CDATA[test3]]></value>
+  </string>
+  <string translate="1" segmentID="832" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_test55_54</SID>
+    <value><![CDATA[test55]]></value>
+  </string>
+  <string translate="1" segmentID="833" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_ytytyt_55</SID>
+    <value><![CDATA[ytytyt]]></value>
+  </string>
+  <string translate="1" segmentID="834" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_new_56</SID>
+    <value><![CDATA[new]]></value>
+  </string>
+  <string translate="1" segmentID="835" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_MeetFigm_57</SID>
+    <value><![CDATA[Meet Figma, in 3 minutes]]></value>
+  </string>
+  <string translate="1" segmentID="836" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Root_59</SID>
+    <value><![CDATA[Root]]></value>
+  </string>
+  <string translate="1" segmentID="837" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_three-th_61</SID>
+    <value><![CDATA[three-three]]></value>
+  </string>
+  <string translate="1" segmentID="838" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_four-fou_62</SID>
+    <value><![CDATA[four-four]]></value>
+  </string>
+  <string translate="1" segmentID="839" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_two-two_60</SID>
+    <value><![CDATA[two-two]]></value>
+  </string>
+  <string translate="1" segmentID="840" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_Thisspac_58</SID>
+    <value><![CDATA[This space is for learning the basics of Figma, and to practice on some sample designs. ]]></value>
+  </string>
+  <string translate="1" segmentID="841" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_newwww_71</SID>
+    <value><![CDATA[newwww]]></value>
+  </string>
+  <string translate="1" segmentID="842" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_newww2_72</SID>
+    <value><![CDATA[newww2]]></value>
+  </string>
+  <string translate="1" segmentID="843" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_0710test_74</SID>
+    <value><![CDATA[0710 test 1500 777]]></value>
+  </string>
+  <string translate="1" segmentID="844" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_more_64</SID>
+    <value><![CDATA[more]]></value>
+  </string>
+  <string translate="1" segmentID="845" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_boom_75</SID>
+    <value><![CDATA[one two three777]]></value>
+  </string>
+  <string translate="1" segmentID="846" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_machine_73</SID>
+    <value><![CDATA[machine2]]></value>
+  </string>
+  <string translate="1" segmentID="847" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_tree_63</SID>
+    <value><![CDATA[tree7]]></value>
+  </string>
+  <string translate="1" segmentID="848" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>test_finalatt_76</SID>
+    <value><![CDATA[new title]]></value>
+  </string>
 </resources>
