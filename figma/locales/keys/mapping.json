@@ -90,12 +90,6 @@
     "lastChanged": "1760009310"
   },
   {
-    "key": "test_machine_73",
-    "value": "machine",
-    "nodeID": "node_id.27:2",
-    "lastChanged": "1760009310"
-  },
-  {
     "key": "test_0710test_74",
     "value": "0710 test 1500 777",
     "nodeID": "node_id.30:3",
@@ -112,5 +106,11 @@
     "value": "one two three777",
     "nodeID": "node_id.40:2",
     "lastChanged": "1760010448"
+  },
+  {
+    "key": "test_machine_73",
+    "value": "machine2",
+    "nodeID": "node_id.27:2",
+    "lastChanged": "1760010952"
   }
 ]
