@@ -139,20 +139,20 @@
   },
   {
     "key": "test_statusye_80",
-    "value": "status yellow",
+    "value": "status yellow one",
     "nodeID": "node_id.54:58",
-    "lastChanged": "1760088186"
+    "lastChanged": "1760088516"
   },
   {
     "key": "test_Statusgr_81",
-    "value": "Status green",
+    "value": "Status green two",
     "nodeID": "node_id.54:59",
-    "lastChanged": "1760088186"
+    "lastChanged": "1760088516"
   },
   {
     "key": "test_Statusye_82",
-    "value": "Status yellow and green",
+    "value": "Status yellow and green three",
     "nodeID": "node_id.54:60",
-    "lastChanged": "1760088186"
+    "lastChanged": "1760088516"
   }
 ]
