@@ -190,5 +190,11 @@
     "value": "status yellow one2",
     "nodeID": "node_id.54:58",
     "lastChanged": "1760089666"
+  },
+  {
+    "key": "test_qwe_89",
+    "value": "qwe",
+    "nodeID": "node_id.57:119",
+    "lastChanged": "1760089885"
   }
 ]
