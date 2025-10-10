@@ -154,5 +154,23 @@
     "value": "Status yellow and green three",
     "nodeID": "node_id.54:60",
     "lastChanged": "1760088516"
+  },
+  {
+    "key": "test_finaly_83",
+    "value": "final y",
+    "nodeID": "node_id.55:113",
+    "lastChanged": "1760088591"
+  },
+  {
+    "key": "test_finalg_84",
+    "value": "final g",
+    "nodeID": "node_id.55:114",
+    "lastChanged": "1760088591"
+  },
+  {
+    "key": "test_finalyg_85",
+    "value": "final y+g",
+    "nodeID": "node_id.55:115",
+    "lastChanged": "1760088591"
   }
 ]
