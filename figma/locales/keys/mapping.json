@@ -138,12 +138,6 @@
     "lastChanged": "1760087359"
   },
   {
-    "key": "test_statusye_80",
-    "value": "status yellow one",
-    "nodeID": "node_id.54:58",
-    "lastChanged": "1760088516"
-  },
-  {
     "key": "test_Statusgr_81",
     "value": "Status green two",
     "nodeID": "node_id.54:59",
@@ -190,5 +184,11 @@
     "value": "y57",
     "nodeID": "node_id.55:116",
     "lastChanged": "1760089596"
+  },
+  {
+    "key": "test_statusye_80",
+    "value": "status yellow one2",
+    "nodeID": "node_id.54:58",
+    "lastChanged": "1760089666"
   }
 ]
