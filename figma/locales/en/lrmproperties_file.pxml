@@ -54,4 +54,10 @@
     <SID>pre_year_1</SID>
     <value><![CDATA[year]]></value>
   </string>
+  <string translate="1" segmentID="10" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>pre_monda_1</SID>
+    <value><![CDATA[monday]]></value>
+  </string>
 </resources>
