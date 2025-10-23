@@ -59,6 +59,11 @@
   "nodeID":"node_id.125:3",
   "lastChanged":1761135260
 },{
+  "key":"a_null_counter",
+  "value":"andor",
+  "nodeID":"node_id.148:10",
+  "lastChanged":1761209184
+},{
   "key":"pre2_sunday_qwe_counter",
   "value":"sunday",
   "nodeID":"node_id.144:2",
