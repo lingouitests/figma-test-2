@@ -64,6 +64,11 @@
   "nodeID":"node_id.148:10",
   "lastChanged":1761209184
 },{
+  "key":"next_null_counter",
+  "value":"next",
+  "nodeID":"node_id.148:11",
+  "lastChanged":1761209257
+},{
   "key":"pre2_sunday_qwe_counter",
   "value":"sunday",
   "nodeID":"node_id.144:2",
