@@ -18,4 +18,10 @@
     <SID>pre2_wednesda_qwe_counter</SID>
     <value><![CDATA[wednesday]]></value>
   </string>
+  <string translate="1" segmentID="4" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>pre2_sunday_qwe_counter</SID>
+    <value><![CDATA[sunday]]></value>
+  </string>
 </resources>
