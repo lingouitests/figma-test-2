@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string translate="1" segmentID="1" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_555_1</SID>
+    <value><![CDATA[555]]></value>
+  </string>
+  <string translate="1" segmentID="2" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_777_2</SID>
+    <value><![CDATA[777]]></value>
+  </string>
+  <string translate="1" segmentID="3" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_ytyty_3</SID>
+    <value><![CDATA[ytyty]]></value>
+  </string>
+  <string translate="1" segmentID="4" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_lkjhg_4</SID>
+    <value><![CDATA[lkjhg]]></value>
+  </string>
+  <string translate="1" segmentID="5" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_iuyt_5</SID>
+    <value><![CDATA[iuyt]]></value>
+  </string>
+  <string translate="1" segmentID="6" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_2310_1</SID>
+    <value><![CDATA[2310]]></value>
+  </string>
+  <string translate="1" segmentID="7" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_2410_2</SID>
+    <value><![CDATA[2410]]></value>
+  </string>
+  <string translate="1" segmentID="8" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_2510_3</SID>
+    <value><![CDATA[2510]]></value>
+  </string>
+</resources>
