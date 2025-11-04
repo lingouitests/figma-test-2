@@ -48,4 +48,10 @@
     <SID>123_2510_3</SID>
     <value><![CDATA[2510]]></value>
   </string>
+  <string translate="1" segmentID="9" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_three_1</SID>
+    <value><![CDATA[three]]></value>
+  </string>
 </resources>

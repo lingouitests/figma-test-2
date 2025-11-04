@@ -30,4 +30,22 @@
     <SID>123_iuyt_5</SID>
     <value><![CDATA[iuyt]]></value>
   </string>
+  <string translate="1" segmentID="6" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_2310_1</SID>
+    <value><![CDATA[2310]]></value>
+  </string>
+  <string translate="1" segmentID="7" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_2410_2</SID>
+    <value><![CDATA[2410]]></value>
+  </string>
+  <string translate="1" segmentID="8" minLength="" maxLength="">
+    <lrm_incontext></lrm_incontext>
+    <llm_prompt></llm_prompt>
+    <SID>123_2510_3</SID>
+    <value><![CDATA[2510]]></value>
+  </string>
 </resources>
